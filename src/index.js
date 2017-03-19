@@ -1,5 +1,3 @@
-require("babel-polyfill")
-
 import express from 'express'
 import request from 'request'
 import promisify from 'promisify-node'
